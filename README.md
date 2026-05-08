@@ -37,7 +37,7 @@ The dataset contains information related to:
 
 ## Dataset Source
 
-[Dataset Link]([https://www.kaggle.com/datasets/abdullahashfaqvirk/student-mental-health-survey/data])
+[Dataset Link:] [https://www.kaggle.com/datasets/abdullahashfaqvirk/student-mental-health-survey/data]
 
 ---
 
